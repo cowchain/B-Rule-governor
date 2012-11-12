@@ -2,12 +2,6 @@ GOVERNOR B-RULE
 ===============
 ![Markdown Mark](http://richerramblings.files.wordpress.com/2011/04/aperture_logo.png)
 
-DEVELOPER:
-        -(C)  2003 Venkatesh Pallipadi <venkatesh.pallipadi@intel.com>.
-        -          Jun Nakajima <jun.nakajima@intel.com>
-        -(C)  2012 Ezekeel <notezekeel@googlemail.com>
-        -(C)  2012 CowCarnage <cow.carnage@gmail.com>
-
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License version 2 as
